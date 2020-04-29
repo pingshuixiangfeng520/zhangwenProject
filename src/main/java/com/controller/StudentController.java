@@ -25,6 +25,8 @@ public class StudentController {
         mv.addObject("stus",list);
         mv.setViewName("list");
 
+        System.out.println("在dev上进行第一次修改");
+
 
         return mv;
     }
