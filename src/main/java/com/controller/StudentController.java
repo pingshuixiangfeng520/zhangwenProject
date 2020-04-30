@@ -26,7 +26,7 @@ public class StudentController {
         mv.setViewName("list");
 
         System.out.println("在dev上进行第一次修改");
-        System.out.println("AAAAA在master=======上进行修改BBBB");
+        System.out.println("AABBAAA在master=======上进行修改BBBB");
 
 
 
