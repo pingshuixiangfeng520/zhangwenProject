@@ -25,7 +25,7 @@ public class StudentController {
         mv.addObject("stus",list);
         mv.setViewName("list");
 
-
+        System.out.println("主分支进行修改==========");
 
         return mv;
     }
