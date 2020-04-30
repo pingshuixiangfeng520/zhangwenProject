@@ -26,6 +26,9 @@ public class StudentController {
         mv.setViewName("list");
 
 
+        System.out.println("dev开发进行修改");
+
+
 
         return mv;
     }
